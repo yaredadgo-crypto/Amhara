@@ -1,2 +1,1 @@
-# Amhara
-Project
+rthio
